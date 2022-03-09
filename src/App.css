@@ -6,6 +6,10 @@
   height: 40vmin;
   pointer-events: none;
 }
+.warp_data{
+  background-color: #fddcee;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
